@@ -1,0 +1,67 @@
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/bottle/test/good/000.png
+Original Result: The combined features of the image and text indicate that the image contains an object with certain characteristics such as shape, size, color, texture, etc., while the text provides additional information about the object or its context.
+For example, in the image, there is a person standing on a chair with their arms crossed. The text mentions "person" and "chair", which provide additional details about the subject of the image.
+Similarly, in the image, there is a red flower with yellow petals. The text describes it as "red flower" and "yellow petals". This helps to clarify what the flower looks like based on the description provided by the image.
+Overall, the combination of the image and text allows for a more complete understanding of the subject matter, providing both visual and textual cues to help identify and describe the object being depicted.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/bottle/test/good/001.png
+Original Result: The combined features of an image and its corresponding text can be represented in various ways, such as using a hash map or dictionary to store both elements together, or using a JSON object structure.
+
+In this case, the hash map is used to combine the two pieces of information into one key-value pair:
+
+```
+{
+  "image": {
+    "features": [
+      [0.030728142708539963,
+       0.09165981411933899,
+       -0.5019245743751526,
+       0.06111486256122589],
+      ...
+    ]
+  },
+  "text": {
+    "features": [
+      [-0.3492979109287262,
+       -0.35492831468582153,
+       -0.4125071167945862,
+       0.11843910813331604]
+    ]
+  }
+}
+```
+
+This way, we have the feature vector for the image (with a total of six elements) and the feature vector for the text (also with a total of six elements). The values within each element correspond to the specific features that were extracted from the image and text data.
+
+To use this data, you could then perform machine learning algorithms on it, such as classification or regression models, to predict certain properties based on the combined feature vectors. For example, if you wanted to classify images of cats and dogs based on their fur color, you could use a model trained on pairs of cat and dog images with known colors to predict whether a new image is of a cat or dog based on its fur color features.
+
+Overall, combining the features of an image and text provides a powerful way to represent large amounts of information in a compact format, which can make it easier to analyze and process.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/bottle/test/good/002.png
+Original Result: The combined features of the image and text indicate that the image contains an object with an area of approximately 0.014950726181268692 square units, which is about 0.25595393776893616 square inches in real-world measurement.
+
+The second feature refers to the size of the object's surface area, which measures approximately 0.8458948731422424 square units, or about 0.19117653369903564 square feet in real-world terms.
+
+The third feature indicates that there is another object with an area of approximately 0.04351608455181122 square units, which equals about 0.8628570437431335 square inches.
+
+Lastly, the fourth feature shows that the total surface area of both objects together amounts to approximately 0.8628570437431335 square units, or about 0.8628570437431335 square feet. This means that the combined areas of the two objects add up to be slightly less than one square foot.
+
+In summary, the combined features suggest that the images depict an object that has an overall surface area of approximately 0.8628570437431335 square units, which translates into about 0.8628570437431335 square feet.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/bottle/test/good/003.png
+Original Result: The combined features of the image and text indicate that the image contains an object with negative attributes such as weight, size, and shape. The text describes the same object but in a different context or situation.
+
+The image shows an object with a weight of 10 kg, which is considered to be relatively heavy. It also has a small size, being only 10 cm x 10 cm in dimensions, which is not very large compared to other objects. Its shape is rectangular, indicating it might have some sort of structure or form.
+
+The text states that the object has a weight of 10 kg, which suggests it's quite heavy. It mentions its size as being small, measuring only 10 cm x 10 cm, implying it's compact and not very wide or long. Lastly, the text says it's rectangular-shaped, suggesting it may have a flat or square base.
+
+In summary, both the image and text describe the same object with a weight of 10 kg and small dimensions (10 cm x 10 cm). However, the text provides additional details about its shape, making it more specific than just saying it's "small."
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/bottle/test/good/004.png
+Original Result: The combined features of the image and text indicate that the image contains an object with negative coordinates (-0.0414888933300972, 0.078834168612957), which is located at (x=-0.0414888933300972, y=0.078834168612957). The text provides additional details about this object's position, size, and orientation in three-dimensional space.
+Processed Category: anomaly
+

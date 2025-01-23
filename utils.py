@@ -1,7 +1,11 @@
+import sys
+import os
+# Add the parent directory of 'losses' (or the directory containing 'Meta_Inspector') to sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import torchvision.transforms as transforms
 # from torchvision.transforms import Compose, Resize, ToTensor, Normalize, InterpolationMode
-from AnomalyCLIP_lib.transform import image_transform
-from AnomalyCLIP_lib.constants import OPENAI_DATASET_MEAN, OPENAI_DATASET_STD
+from Meta_Inspector.AnomalyCLIP_lib.transform import image_transform
+from Meta_Inspector.AnomalyCLIP_lib.constants import OPENAI_DATASET_MEAN, OPENAI_DATASET_STD
 
 
 

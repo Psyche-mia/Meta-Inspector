@@ -1,0 +1,468 @@
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/000.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/001.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/002.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/003.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/004.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/005.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/006.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/007.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/008.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/009.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/010.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/011.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/012.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/013.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/014.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/015.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/016.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/017.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/018.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/019.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/020.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/021.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/022.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/023.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/024.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/025.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/026.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/027.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/028.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/029.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/030.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/031.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/good/032.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/000.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/001.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/002.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/003.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/004.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/005.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/006.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/007.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/008.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/009.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/010.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/011.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/012.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/013.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/014.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/015.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/016.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/glue_strip/017.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/000.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/001.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/002.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/003.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/004.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/005.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/006.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/007.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/008.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/009.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/010.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/011.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/012.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/013.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/014.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/015.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/016.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/oil/017.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/000.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/001.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/002.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/003.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/004.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/005.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/006.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/007.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/008.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/009.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/010.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/011.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/012.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/013.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/014.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/015.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/crack/016.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/000.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/001.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/002.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/003.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/004.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/005.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/006.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/007.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/008.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/009.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/010.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/011.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/012.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/013.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/rough/014.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/000.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/001.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/002.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/003.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/004.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/005.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/006.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/007.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/008.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/009.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/010.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/011.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/012.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/013.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/014.png
+Original Result: N/A
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/tile/test/gray_stroke/015.png
+Original Result: N/A
+Processed Category: anomaly
+

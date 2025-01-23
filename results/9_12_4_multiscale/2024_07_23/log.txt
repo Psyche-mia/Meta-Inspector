@@ -1,0 +1,187 @@
+24-07-23 11:51:55.057 - INFO: 
+| objects    |   pixel_auroc |   pixel_aupro |   image_auroc |   image_ap |
+|:-----------|--------------:|--------------:|--------------:|-----------:|
+| carpet     |               |               |               |            |
+| bottle     |               |               |               |            |
+| hazelnut   |               |               |               |            |
+| leather    |               |               |               |            |
+| cable      |               |               |               |            |
+| capsule    |               |               |               |            |
+| grid       |               |               |               |            |
+| pill       |               |               |               |            |
+| transistor |               |               |               |            |
+| metal_nut  |               |               |               |            |
+| screw      |               |               |               |            |
+| toothbrush |               |               |               |            |
+| zipper     |               |               |               |            |
+| tile       |               |               |               |            |
+| wood       |               |               |               |            |
+| mean       |           nan |           nan |           nan |        nan |
+24-07-23 11:51:55.057 - INFO: 
+| species                 | accuracy   |
+|:------------------------|:-----------|
+| Manufacturing Defects   | N/A        |
+| Physical Damage         | N/A        |
+| good                    | 0.0        |
+| Contamination           | N/A        |
+| Morphological Anomalies | N/A        |
+| Surface Defects         | N/A        |
+24-07-23 13:56:35.474 - INFO: 
+| objects    |   pixel_auroc |   pixel_aupro |   image_auroc |   image_ap |
+|:-----------|--------------:|--------------:|--------------:|-----------:|
+| carpet     |               |               |               |            |
+| bottle     |               |               |               |            |
+| hazelnut   |               |               |               |            |
+| leather    |               |               |               |            |
+| cable      |               |               |               |            |
+| capsule    |               |               |               |            |
+| grid       |               |               |               |            |
+| pill       |               |               |               |            |
+| transistor |               |               |               |            |
+| metal_nut  |               |               |               |            |
+| screw      |               |               |               |            |
+| toothbrush |               |               |               |            |
+| zipper     |               |               |               |            |
+| tile       |               |               |               |            |
+| wood       |               |               |               |            |
+| mean       |           nan |           nan |           nan |        nan |
+24-07-23 13:56:35.474 - INFO: 
+| species                 | accuracy   |
+|:------------------------|:-----------|
+| good                    | 0.0        |
+| Contamination           | N/A        |
+| Physical Damage         | N/A        |
+| Morphological Anomalies | N/A        |
+| Surface Defects         | N/A        |
+| Manufacturing Defects   | N/A        |
+24-07-23 14:00:04.924 - INFO: 
+| objects    |   pixel_auroc |   pixel_aupro |   image_auroc |   image_ap |
+|:-----------|--------------:|--------------:|--------------:|-----------:|
+| carpet     |               |               |               |            |
+| bottle     |               |               |               |            |
+| hazelnut   |               |               |               |            |
+| leather    |               |               |               |            |
+| cable      |               |               |               |            |
+| capsule    |               |               |               |            |
+| grid       |               |               |               |            |
+| pill       |               |               |               |            |
+| transistor |               |               |               |            |
+| metal_nut  |               |               |               |            |
+| screw      |               |               |               |            |
+| toothbrush |               |               |               |            |
+| zipper     |               |               |               |            |
+| tile       |               |               |               |            |
+| wood       |               |               |               |            |
+| mean       |           nan |           nan |           nan |        nan |
+24-07-23 14:00:04.924 - INFO: 
+| species                 | accuracy   |
+|:------------------------|:-----------|
+| Physical Damage         | N/A        |
+| Surface Defects         | N/A        |
+| Morphological Anomalies | N/A        |
+| Manufacturing Defects   | N/A        |
+| good                    | 0.0        |
+| Contamination           | N/A        |
+24-07-23 15:59:56.155 - INFO: 
+| objects    |   pixel_auroc |   pixel_aupro |   image_auroc |   image_ap |
+|:-----------|--------------:|--------------:|--------------:|-----------:|
+| carpet     |               |               |               |            |
+| bottle     |               |               |               |            |
+| hazelnut   |               |               |               |            |
+| leather    |               |               |               |            |
+| cable      |               |               |               |            |
+| capsule    |               |               |               |            |
+| grid       |               |               |               |            |
+| pill       |               |               |               |            |
+| transistor |               |               |               |            |
+| metal_nut  |               |               |               |            |
+| screw      |               |               |               |            |
+| toothbrush |               |               |               |            |
+| zipper     |               |               |               |            |
+| tile       |               |               |               |            |
+| wood       |               |               |               |            |
+| mean       |           nan |           nan |           nan |        nan |
+24-07-23 15:59:56.155 - INFO: 
+| species                 | accuracy   |
+|:------------------------|:-----------|
+| Contamination           | N/A        |
+| good                    | 0.0        |
+| Manufacturing Defects   | N/A        |
+| Surface Defects         | N/A        |
+| Morphological Anomalies | N/A        |
+| Physical Damage         | N/A        |
+24-07-24 15:19:13.587 - INFO: 
+| objects   |   pixel_auroc |   pixel_aupro |   image_auroc |   image_ap |
+|:----------|--------------:|--------------:|--------------:|-----------:|
+| bottle    |          83.7 |          76   |          84.7 |       95.3 |
+| cable     |          61.5 |          33.2 |          50   |       65.5 |
+| mean      |          72.6 |          54.6 |          67.3 |       80.4 |
+24-07-24 15:49:14.543 - INFO: 
+| objects   |   pixel_auroc |   pixel_aupro |   image_auroc |   image_ap |
+|:----------|--------------:|--------------:|--------------:|-----------:|
+| bottle    |          83.7 |          76   |          84.7 |       95.3 |
+| cable     |          61.5 |          33.2 |          50   |       65.5 |
+| mean      |          72.6 |          54.6 |          67.3 |       80.4 |
+24-07-24 15:49:14.544 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |         21 |
+24-07-25 17:19:20.117 - INFO: 
+| objects    |   pixel_auroc |   pixel_aupro |   image_auroc |   image_ap |
+|:-----------|--------------:|--------------:|--------------:|-----------:|
+| carpet     |          95   |          82.7 |          93.8 |       98.3 |
+| bottle     |          81.2 |          73.7 |          89.4 |       97.1 |
+| hazelnut   |          93.9 |          81.8 |          83.2 |       90.9 |
+| leather    |          97.4 |          88.2 |          99.3 |       99.8 |
+| cable      |          58.3 |          34.1 |          81.6 |       86.5 |
+| capsule    |          88.9 |          82.7 |          63   |       90.2 |
+| grid       |          91.9 |          78   |          80.6 |       91.8 |
+| pill       |          81.5 |          51   |          52.9 |       89   |
+| transistor |          61.4 |          52.2 |          78.5 |       76.4 |
+| metal_nut  |          69.7 |          62.4 |          84.8 |       96.3 |
+| screw      |          94.9 |          81   |          67.1 |       85.5 |
+| toothbrush |          69   |          40.8 |          72.5 |       87   |
+| zipper     |          80.1 |          54.8 |          90.3 |       97.5 |
+| tile       |          85.8 |          77.2 |         100   |      100   |
+| wood       |          87.4 |          69   |          96.2 |       98.9 |
+| mean       |          82.4 |          67.3 |          82.2 |       92.3 |
+24-07-25 17:19:20.117 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       21.2 |
+24-07-25 17:42:41.521 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       23.8 |
+24-07-26 09:41:59.470 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       22.5 |
+24-07-29 14:39:51.987 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       16.8 |
+24-07-29 15:12:14.834 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       11.4 |
+24-07-29 15:23:32.658 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |         16 |
+24-07-30 10:08:36.775 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       14.5 |
+24-07-30 10:18:14.618 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       10.8 |
+24-07-30 11:38:29.345 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       30.6 |
+24-07-30 11:56:30.683 - INFO: 
+| metric          |   accuracy |
+|:----------------|-----------:|
+| specie_accuracy |       25.5 |

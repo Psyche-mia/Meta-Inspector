@@ -1,0 +1,600 @@
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/000.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/001.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/002.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/003.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/004.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/005.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/007.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_wire/009.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/000.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/001.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/002.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/003.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/004.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/005.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/007.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/009.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/010.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/011.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/012.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/013.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/014.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/015.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/016.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/017.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/018.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/019.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/020.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/021.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/022.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/023.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/024.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/025.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/026.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/027.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/028.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/029.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/030.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/031.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/032.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/033.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/034.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/035.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/036.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/037.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/038.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/039.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/040.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/041.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/042.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/043.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/044.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/045.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/046.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/047.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/048.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/049.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/050.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/051.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/052.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/053.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/054.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/055.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/056.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/good/057.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/000.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/001.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/002.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/003.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/004.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/005.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/006.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/007.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/009.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/010.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/missing_cable/011.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/000.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/001.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/002.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/003.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/004.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/005.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/007.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/009.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/010.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/011.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/bent_wire/012.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/000.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/001.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/002.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/003.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/004.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/005.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/007.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/009.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/010.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cable_swap/011.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/000.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/001.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/002.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/003.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/004.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/005.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/007.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/008.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/009.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/010.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/011.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/012.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_inner_insulation/013.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/000.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/001.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/002.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/003.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/004.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/005.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/007.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/009.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/combined/010.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/000.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/001.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/002.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/003.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/004.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/005.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/007.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/poke_insulation/009.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/000.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/001.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/002.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/003.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/004.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/005.png
+Original Result: Anomaly.
+Processed Category: anomaly
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/006.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/007.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/008.png
+Original Result: good
+Processed Category: good
+
+Image: /mnt/VisDiff/data/mvtec_anomaly_detection/cable/test/cut_outer_insulation/009.png
+Original Result: good
+Processed Category: good
+

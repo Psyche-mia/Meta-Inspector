@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from prompt_ensemble import AnomalyCLIP_PromptLearner
 from loss import FocalLoss, BinaryDiceLoss
 from utils import normalize
-from dataset import Dataset
+from dataset import Original_Dataset
 from logger import get_logger
 from tqdm import tqdm
 import numpy as np
@@ -27,12 +27,13 @@ def train(args):
     preprocess, target_transform = get_transform(args)
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    AnomalyCLIP_parameters = {"Prompt_length": args.n_ctx, "learnabel_text_embedding_depth": args.depth, "learnabel_text_embedding_length": args.t_n_ctx}
+    AnomalyCLIP_parameters = {"Prompt_length": args.n_ctx, "learnable_text_embedding_depth": args.depth, "learnable_text_embedding_length": args.t_n_ctx}
 
     model, _ = AnomalyCLIP_lib.load("ViT-L/14@336px", device=device, design_details = AnomalyCLIP_parameters)
     model.eval()
 
-    train_data = Dataset(root=args.train_data_path, transform=preprocess, target_transform=target_transform, dataset_name = args.dataset)
+    # train_data = Custom_Dataset(root=args.train_data_path, transform=preprocess, target_transform=target_transform, dataset_name = args.dataset)
+    train_data = Original_Dataset(root=args.train_data_path, transform=preprocess, target_transform=target_transform, dataset_name = args.dataset)
     train_dataloader = torch.utils.data.DataLoader(train_data, batch_size=args.batch_size, shuffle=True)
 
   ##########################################################################################
@@ -75,11 +76,15 @@ def train(args):
            ####################################
             prompts, tokenized_prompts, compound_prompts_text = prompt_learner(cls_id = None)
             text_features = model.encode_text_learn(prompts, tokenized_prompts, compound_prompts_text).float()
+            print(text_features.shape)
             text_features = torch.stack(torch.chunk(text_features, dim = 0, chunks = 2), dim = 1)
             text_features = text_features/text_features.norm(dim=-1, keepdim=True)
             # Apply DPAM surgery
             text_probs = image_features.unsqueeze(1) @ text_features.permute(0, 2, 1)
             text_probs = text_probs[:, 0, ...]/0.07
+            print("Text probs shape:", text_probs.shape)
+            print("Text probs squeezed shape:", text_probs.squeeze().shape)
+            print("label shape:", label.shape)
             image_loss = F.cross_entropy(text_probs.squeeze(), label.long().cuda())
             image_loss_list.append(image_loss.item())
             #########################################################################

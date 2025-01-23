@@ -34,8 +34,8 @@ def _download(
 ):
 
     if not cache_dir:
-        # cache_dir = os.path.expanduser("~/.cache/clip")
-        cache_dir = os.path.expanduser("/remote-home/iot_zhouqihang/root/.cache/clip")
+        cache_dir = os.path.expanduser("/mnt/.cache/clip")
+        # cache_dir = os.path.expanduser("/remote-home/iot_zhouqihang/root/.cache/clip")
     os.makedirs(cache_dir, exist_ok=True)
     filename = os.path.basename(url)
 
@@ -51,6 +51,7 @@ def _download(
     if os.path.exists(download_target) and not os.path.isfile(download_target):
         raise RuntimeError(f"{download_target} exists and is not a regular file")
 
+    # if file already exists and the SHA256 checksum matches, return it immediately
     if os.path.isfile(download_target):
         if expected_sha256:
             if hashlib.sha256(open(download_target, "rb").read()).hexdigest().startswith(expected_sha256):
@@ -141,13 +142,13 @@ def load(name: str, device: Union[str, torch.device] = "cuda" if torch.cuda.is_a
     """
     print("name", name)
     if name in _MODELS:
-        # model_path = _download(_MODELS[name], download_root or os.path.expanduser("~/.cache/clip"))
-        model_path = _download(_MODELS[name], download_root or os.path.expanduser("/remote-home/iot_zhouqihang/root/.cache/clip"))
+        model_path = _download(_MODELS[name], download_root or os.path.expanduser("/mnt/.cache/clip"))
+        # model_path = _download(_MODELS[name], download_root or os.path.expanduser("/remote-home/iot_zhouqihang/root/.cache/clip"))
     elif os.path.isfile(name):
         model_path = name
     else:
         raise RuntimeError(f"Model {name} not found; available models = {available_models()}")
-
+    print("model_path: ", model_path)
     with open(model_path, 'rb') as opened_file:
         try:
             # loading JIT archive

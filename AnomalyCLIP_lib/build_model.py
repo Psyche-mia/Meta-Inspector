@@ -1,9 +1,10 @@
 from torch import nn
 from .CLIP import CLIP
-from .AnomalyCLIP import AnomalyCLIP
+from .AnomalyCLIP import AnomalyCLIP, Custom_AnomalyCLIP
 
 def build_model(name: str, state_dict: dict, design_details = None):
     vit = "visual.proj" in state_dict
+    print(vit)
     
     if vit:
         vision_width = state_dict["visual.conv1.weight"].shape[0]
@@ -22,14 +23,19 @@ def build_model(name: str, state_dict: dict, design_details = None):
 
     embed_dim = state_dict["text_projection"].shape[1]
     context_length = state_dict["positional_embedding"].shape[0]
+    print('context_length: ', context_length)
     vocab_size = state_dict["token_embedding.weight"].shape[0]
+
     transformer_width = state_dict["ln_final.weight"].shape[0]
     transformer_heads = transformer_width // 64
     transformer_layers = len(set(k.split(".")[2] for k in state_dict if k.startswith(f"transformer.resblocks")))
+    print('transformer_width: ', transformer_width)
+    print('transformer_heads: ', transformer_heads)
+    print('transformer_layers: ', transformer_layers)
     # print('name', name)
     # if 'CS-' in name:
     if design_details is not None:
-        model = AnomalyCLIP(
+        model = Custom_AnomalyCLIP(
             embed_dim,
             image_resolution, vision_layers, vision_width, vision_patch_size,
             context_length, vocab_size, transformer_width, transformer_heads, transformer_layers, design_details = design_details
@@ -41,9 +47,16 @@ def build_model(name: str, state_dict: dict, design_details = None):
             context_length, vocab_size, transformer_width, transformer_heads, transformer_layers
         )
 
+    # delete some parameters
     for key in ["input_resolution", "context_length", "vocab_size"]:
         if key in state_dict:
             del state_dict[key]
+            
+    # Initialize specie_classifier if not in state_dict
+    # if "specie_classifier.weight" not in state_dict:
+    #     state_dict["specie_classifier.weight"] = model.specie_classifier.weight
+    # if "specie_classifier.bias" not in state_dict:
+    #     state_dict["specie_classifier.bias"] = model.specie_classifier.bias
 
     #convert_weights(model)
     model.load_state_dict(state_dict)

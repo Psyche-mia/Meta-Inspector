@@ -47,5 +47,5 @@ class MVTecSolver(object):
             f.write(json.dumps(info, indent=4) + "\n")
         print('normal_samples', normal_samples, 'anomaly_samples', anomaly_samples)
 if __name__ == '__main__':
-    runner = MVTecSolver(root='/remote-home/iot_zhouqihang/data/mvdataset')
+    runner = MVTecSolver(root='/mnt/IAD_datasets/mvtec_anomaly_detection')
     runner.run()
